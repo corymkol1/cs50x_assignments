@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Ran slower on large random numbers. On pre-sorted list performed much faster.
+
+sort2 uses: Merge Sort
+
+How do you know?: Real time was consistently fast across all lists.
+
+sort3 uses: Selection Sort
+
+How do you know?: Took a long time on all large lists regardless of pre sorted or random. 
